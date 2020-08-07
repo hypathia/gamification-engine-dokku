@@ -1,7 +1,7 @@
 # gamification-engine-dokku
 Deployable application for using the gamification engine (https://github.com/ActiDoo/gamification-engine) with dokku (https://github.com/progrium/dokku) or Heroku (https://www.heroku.com/).
 
-The configuration uses multiple buildpacks (see .buildpacks and https://github.com/heroku/heroku-buildpack-multi.git).
+The configuration uses multiple buildpacks (see .buildpacks and https://github.com/heroku/heroku-buildpack-multi.git). 
 
 ## Demo
 
